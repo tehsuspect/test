@@ -1,0 +1,53 @@
+/* Ryo */
+[href*="characters/206278-"] {
+  --show-default: 0;
+  --custom-image: url("https://sun9-62.userapi.com/impg/O8enITVV3_VivxwZMBKPTGaERRxckqJItHbKGQ/bk0Nc1kOnNk.jpg?size=1080x1327&quality=96&sign=b9624e2e165e4c578ddd296a00487c4c&type=album");
+}
+.b-catalog_entry .image-cutter {
+  border-radius: 6px;
+}
+/* Rem */
+[href*="characters/118763-"] {
+  --show-default: 0;
+  --custom-image: url("https://sun9-41.userapi.com/impg/vR0oq9FSarzkmFbIt6NrE6_g8CmDiUsEX_8kUQ/TBmrcx9LkZg.jpg?size=1355x2160&quality=96&sign=f9d0984e852b0a0c445b2bb57d87b4ca&type=album")
+}
+/* Kanon */
+[href*="characters/184716-"] {
+  --show-default: 0;
+  --custom-image: url("https://sun9-60.userapi.com/impg/TzszaFnbXV1FEGwvqKIrvsQFRFA1Lk6ennFiyg/M1RaiwK0BrA.jpg?size=456x490&quality=96&sign=e88cb6a4bc0d94ef9d498b798f023aa7&type=album");
+}
+/* Marin Kitagawa */
+[href*="characters/166439-"] {
+  --show-default: 0;
+  --custom-image: url("https://thypix.com/wp-content/uploads/2022/05/my-dress-up-darling-7-700x700.jpg");
+}
+/* Negev */
+[href*="characters/209611-"] {
+  --show-default: 0;
+  --custom-image: url("https://sun9-62.userapi.com/impg/2WT3zdY5tmDDRCC1LI-_i0dAAg8mAM5njWLyrw/_V4V-jJASC0.jpg?size=626x699&quality=96&sign=f5e3487d8ad06bab5dd241edd1814256&type=album");
+}
+/* Bachira */
+[href*="characters/178716-"] {
+  --show-default: 0;
+  --custom-image: url("https://desu.shikimori.one/system/user_images/original/35473/2343660.jpg");
+}
+/* Hotarou */
+[href*="characters/55131-"] {
+  --show-default: 0;
+  --custom-image: url("https://sun9-7.userapi.com/impg/o1k46HOIl_LrOkgPtPt_1Rkv9FKwTaBxtf6mlw/1nmWXNJLlig.jpg?size=1216x2048&quality=96&sign=355cb24b7b0e03686d7f68ad9910e7e7&type=album");
+}
+/* Hachiman */
+[href*="characters/67065-"] {
+  --show-default: 0;
+  --custom-image: url("https://desu.shikimori.one/system/user_images/original/1057540/2027143.jpg");
+}
+/* Kiyotaka */
+[href*="characters/128909-"] {
+  --show-default: 0;
+  --custom-image: url("https://desu.shikimori.one/system/user_images/original/206983/1135183.jpg");
+}
+/* Sniper Mask */
+[href*="characters/131122-"] {
+  --show-default: 0;
+  --custom-image: url("https://i.pinimg.com/originals/a6/5a/a1/a65aa1f84eb5b9774861b260d9fcb8e6.jpg");
+}
